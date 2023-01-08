@@ -1,5 +1,5 @@
 <h1 align="center">Hi , Nalini Manoharan</h1>
-<h3 align="center">A passionate Lead automation engineer with 9+ years of experience, demonstrated history of development and maintenance of various test automation frameworks spanning across multiple domain / technology that includes Web, API and Mobile applications.</h3>
+<h3 align="center">A passionate Lead automation engineer with 8+ years of experience, demonstrated history of development and maintenance of various test automation frameworks spanning across multiple domain / technology that includes Web, API and Mobile applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://assets.onlinelabels.com/images/clip-art/oksmith/Female%20Computer%20User%20(_9)-301405_thumb.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nalinimano&label=Profile%20views&color=0e75b6&style=flat" alt="nalinimano" /> </p>
 
